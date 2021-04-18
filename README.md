@@ -2,24 +2,24 @@
 
 ### Data Visualization
 
-### Basic Plots : Line | Bar | Scatter | Bubble
+### 1. Basic Plots : Line | Bar | Scatter | Bubble
 
-### Statistical Plots
+### 2. Statistical Plots
 
-### 3D Plots 
+### 3. 3D Plots 
 - Interactive and Publication Quality Graphs ( Box Plot, Histograms and Distribution Plot )
 
-### Maps Plot 
+### 4. Maps Plot 
 - Mapbox Chloropleth, Filled Area, Bubble Map and Map related Plots.
 
-### Sunburst Plot ( Hierarchial Data )
+### 5. Sunburst Plot ( Hierarchial Data )
 - Each Level of Hierarchy is represented by one **Ring** or **Circle** with Innermost on Top of Hierarchy.
 
-### Animated Plot ( Animated Graph ) 
+### 6. Animated Plot ( Animated Graph ) 
 
-### Subplots ( Multiple Plots )
+### 7. Subplots ( Multiple Plots )
 
-### Dashboard ( Dash )
+### 8. Dashboard ( Dash )
 - Dash Apps give a Point and Click Interface Model.
 - Faster and Impactful Business Outcomes on AI and Data Science Initiatives.
 
