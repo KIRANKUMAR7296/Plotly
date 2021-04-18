@@ -1,2 +1,3 @@
-# Plotly <img src='Plotly.svg'>
+<img src='Plotly.svg'>
+
 Plotly Data Visualization
