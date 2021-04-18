@@ -1,4 +1,4 @@
-<img src='Plotly.svg'>
+<a href='https://plotly.com/'><img src='Plotly.svg'></a>
 
 ### Data Visualization
 
